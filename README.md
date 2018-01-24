@@ -16,7 +16,7 @@ phpCPF é uma classe escrita em php para verificar se um determinado valor é um
 
 + Executando o comando para adicionar a dependência automaticamente
 ```php
-composer require vsilva472/phpCPF
+composer require vsilva472/phpcpf
 ```
 
 **OU**
@@ -26,13 +26,13 @@ composer require vsilva472/phpCPF
 ```php
 {
     "require": {
-       "vsilva472/phpCPF" : "*"
+       "vsilva472/phpcpf" : "*"
     }
 }
 ``` 
 
 ### Instalação manual
-* Baixe o repositório como arquivo [zip](https://github.com/vsilva472/phpCPF/archive/master.zip) ou faça um clone;
+* Baixe o repositório como arquivo [zip](https://github.com/vsilva472/phpcpf/archive/master.zip) ou faça um clone;
 * Descompacte os arquivos em seu projeto;
 * Execute o comando `composer install` no local onde extraiu os arquivos.
 
