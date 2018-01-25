@@ -34,6 +34,6 @@ class CPFTest extends PHPUnit
         $this->assertTrue($cpf->validate('772.231.260-86'));
         $this->assertFalse($cpf->validate('123.456.789.00'));
         $this->assertFalse($cpf->validate('32145699954'));
-        $this->assertFalse($cpf->validate('32XXX.xxxxx'));
+        $this->assertFalse($cpf->validate('32XXX.xxxxxsdfsdf456-5456sdf'));
     }
 }

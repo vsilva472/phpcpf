@@ -2,8 +2,7 @@
 
 ## Descrição
 
-phpCPF é uma classe escrita em php para verificar se um determinado valor é um número de CPF válido de acordo com as normas estabelecidas pelo governo brasileiro.
-
+phpCPF é uma classe escrita em PHP para validar CPF (independente se o valor possui máscara aplicada 999.999.999-99 ou não) de acordo com as normas estabelecidas pelo governo brasileiro.
 
 ## Requisitos
 * [PHP](https://php.net) 5.6+
@@ -36,11 +35,9 @@ composer require vsilva472/phpcpf
 * Descompacte os arquivos em seu projeto;
 * Execute o comando `composer install` no local onde extraiu os arquivos.
 
-
 ## Como utilizar
 
 O diretório "examples" contém exemplos 2 exemplos da biblioteca classe e a pasta "src" contém o código fonte da classe.
-
 
 ## Nota
 
@@ -49,6 +46,9 @@ Todo o crédito na elaboração do algorítimo de validação deve ser dado ao a
 
 ## Créditos
 Equipe do site [http://www.geradorcpf.com](http://www.geradorcpf.com) por disponibilizar a função em php struturado.
+
+## Changelog
+Para consultar o log de alterações acesse o arquivo [CHANGELOG.md](https://github.com/vsilva472/phpcpf/blob/master/CHANGELOG.md)
 
 ## Licença
 MIT

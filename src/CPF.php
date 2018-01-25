@@ -25,7 +25,13 @@ class CPF
      */
     public function validate($cpf)
     {
-        $cpf = $this->clean($cpf);
+        $raw_cpf    = $cpf;
+        $cpf        = $this->clean($cpf);
+        $has_mask   = preg_match("/^[0-9]{3}\.[0-9]{3}\.[0-9]{3}\-[0-9]{2}$/", $raw_cpf);
+
+        if (!$has_mask && !is_numeric($raw_cpf)) {
+            return false;
+        }
 
         if (!$this->isLengthValid($cpf)) {
             return false;
