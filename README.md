@@ -33,7 +33,7 @@ composer require vsilva472/phpcpf
 ### Instalação manual
 * Baixe o repositório como arquivo [zip](https://github.com/vsilva472/phpcpf/archive/master.zip) ou faça um clone;
 * Descompacte os arquivos em seu projeto;
-* Execute o comando `composer install` no local onde extraiu os arquivos.
+* Execute o comando `composer install` no local onde extraiu os arquivos;
 
 ## Como utilizar
 
@@ -45,7 +45,7 @@ require "path/to/vendor/autoload.php";
 // raw cpf
 $cpf = '123.456.789-00';
 
-// Make the validator
+// Make the CPF validator
 $validator = new \Vsilva472\phpCPF\CPF();
 
 // @boolean 
