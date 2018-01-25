@@ -45,7 +45,7 @@ require "path/to/vendor/autoload.php";
 // raw cpf
 $cpf = '123.456.789-00';
 
-// instaciate the class
+// Make the validator
 $validator = new \Vsilva472\phpCPF\CPF();
 
 // @boolean 
