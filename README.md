@@ -10,7 +10,7 @@ phpCPF é uma classe escrita em PHP para validar CPF (independente se o valor po
 ## Instalação
 > Nota: Recomendamos a instalação via **Composer**. Você também pode baixar o repositório como arquivo zip ou fazer um clone via Git.
 
-### Instação via Composer
+### Instalação via Composer
 > Para baixar e instalar o Composer no seu ambiente acesse [https://getcomposer.org/download/](https://getcomposer.org/download/) e caso tenha dúvidas de como utilizá-lo consulte a [documentação oficial do Composer](https://getcomposer.org/doc/). Veja também a seção de como instalá-lo globalmente
 
 + Executando o comando para adicionar a dependência automaticamente
