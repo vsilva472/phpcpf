@@ -37,7 +37,7 @@ composer require vsilva472/phpcpf
 
 ## Como utilizar
 
-O diretório "examples" contém exemplos 2 exemplos da biblioteca classe e a pasta "src" contém o código fonte da classe.
+O diretório "examples" contém exemplos 1 exemplo de uso e a pasta "src" contém o código fonte da classe.
 
 ## Nota
 
