@@ -1,5 +1,7 @@
 # Validar CPF em PHP
 
+[![Build Status](https://travis-ci.org/vsilva472/phpcpf.svg?branch=master)](https://travis-ci.org/vsilva472/phpcpf) [![license](https://img.shields.io/github/license/vsilva472/phpcpf.svg)]() [![Packagist](https://img.shields.io/packagist/v/vsilva472/phpcpf.svg)]()
+
 ## Descrição
 
 phpCPF é uma classe escrita em PHP para validar CPF (independente se o valor possui máscara aplicada 999.999.999-99 ou não) de acordo com as normas estabelecidas pelo governo brasileiro.
