@@ -1,6 +1,6 @@
 # Validar CPF em PHP
 
-[![Build Status](https://travis-ci.org/vsilva472/phpcpf.svg?branch=master)](https://travis-ci.org/vsilva472/phpcpf) [![license](https://img.shields.io/github/license/vsilva472/phpcpf.svg)]() [![Packagist](https://img.shields.io/packagist/v/vsilva472/phpcpf.svg)]()
+[![Build Status](https://travis-ci.org/vsilva472/phpcpf.svg?branch=master)](https://travis-ci.org/vsilva472/phpcpf) [![license](https://img.shields.io/github/license/vsilva472/phpcpf.svg)](https://github.com/vsilva472/phpcpf/blob/master/LICENSE.md) [![Packagist](https://img.shields.io/packagist/v/vsilva472/phpcpf.svg)](https://packagist.org/packages/vsilva472/phpcpf)
 
 ## Descrição
 
