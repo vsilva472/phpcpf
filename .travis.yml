@@ -7,5 +7,5 @@ before_script:
     - travis_retry composer install --no-interaction
     
 script:
-  - vendor\bin\phpunit
+  - vendor/bin/phpunit
 
