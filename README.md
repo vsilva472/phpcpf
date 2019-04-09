@@ -78,5 +78,11 @@ Equipe do site [http://www.geradorcpf.com](http://www.geradorcpf.com) por dispon
 ## Changelog
 Para consultar o log de alterações acesse o arquivo [CHANGELOG.md](https://github.com/vsilva472/phpcpf/blob/master/CHANGELOG.md)
 
-## Licença
+### Doação
+Contribua para o projeto doando qualquer quantidade de **HTMLCOIN**  
+Carteira: **[HqgaiK6T1o2JP4p3p34CZp2g3XnSsSdCXp](htmlcoin:HqgaiK6T1o2JP4p3p34CZp2g3XnSsSdCXp?label=Doa%C3%A7%C3%B5es%20Github)**  
+  
+![Doar HTMLCoin](https://www.viniciusdesouza.com.br/img/htmlcoin.png)
+
+### Licença
 MIT
